@@ -1,7 +1,3 @@
-# RealFabric-NIR-baseline
-
-
-
 # RealFabric-NIR: A Multi-Task Benchmark Dataset for Real-World Challenges in Fabric Component Analysis
 
 
