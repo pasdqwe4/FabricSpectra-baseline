@@ -30,7 +30,7 @@ However, we have provided:
 - 🧩 **Placeholder or stub code** with clear documentation for restricted modules, so users can integrate their own alternatives if needed.
 
 We appreciate your understanding.  
-If you have questions or are interested in collaboration, feel free to [open an issue](https://github.com/yourname/your-repo/issues) or contact us directly.
+If you have questions or are interested in collaboration, feel free to open an issue or contact us directly.
 
 
 
