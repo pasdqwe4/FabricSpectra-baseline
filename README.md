@@ -10,7 +10,7 @@ To install requirements:
 pip install -r requirements.txt
 ```
 
-Recommend pytorch > 2.5.1, CUDA > 12.0
+Recommend pytorch > 2.5.1 with CUDA > 12.0
 
 ## Train Test code
 
