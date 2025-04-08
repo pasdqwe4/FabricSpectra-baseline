@@ -5,7 +5,7 @@
 
 To install requirements:
 
-!! Unbuntu system
+!! System: Ubuntu 20.04.4 LTS
 ```setup
 pip install -r requirements.txt
 ```
