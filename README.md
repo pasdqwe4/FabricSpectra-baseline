@@ -36,4 +36,5 @@ If you have questions or are interested in collaboration, feel free to open an i
 1. https://github.com/timeseriesAI/tsai/tree/main
 2. https://github.com/meraks/Swin-Transformer-1D/tree/main
 3. https://github.com/microsoft/Swin-Transformer/tree/main
+4. https://github.com/amazon-science/chronos-forecasting
 
