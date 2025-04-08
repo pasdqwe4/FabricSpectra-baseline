@@ -25,7 +25,6 @@ Please note that **some components of this project** (e.g., specific model imple
 However, we have provided:
 
 - ✅ All essential components needed to **reproduce the main experimental results** presented in the paper.
-- 🧩 **Placeholder or stub code** with clear documentation for restricted modules, so users can integrate their own alternatives if needed.
 
 We appreciate your understanding.  
 If you have questions or are interested in collaboration, feel free to open an issue or contact us directly.
