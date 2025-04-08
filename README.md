@@ -15,7 +15,7 @@ Recommend pytorch > 2.5.1, CUDA > 12.0
 
 baseline_train_test.py
 
-Can adjust model: ex) model = convnextv2_huge() or swin_t
+Can adjust model: ex) model = convnextv2_huge() or swin_t()
 
 ## ⚠️ Notice on Code Availability
 
