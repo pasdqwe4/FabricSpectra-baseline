@@ -1,5 +1,12 @@
 # RealFabric-NIR: A Multi-Task Benchmark Dataset for Real-World Challenges in Fabric Component Analysis
 
+## Repository Structure
+
+- **`data_utils/`**: Utility scripts for data preprocessing.
+- **`model/`**: Definitions of model architectures used in experiments.
+- **`baseline_train_test.py`**: Main script for training and evaluating models.
+- **`model_utils.py`**: Helper functions for model operations.
+- **`requirements.txt`**: Python dependencies required for the project.
 
 ## Requirements
 
@@ -10,13 +17,20 @@ To install requirements:
 pip install -r requirements.txt
 ```
 
-Recommend pytorch > 2.5.1 with CUDA > 12.0
+The project has been tested on:
+- **OS**: Ubuntu 20.04.4 LTS
+- **PyTorch**: 2.5.1 or higher
+- **CUDA**: 12.0 or higher
 
 ## Train Test code
 
-baseline_train_test.py
+Use the main script baseline_train_test.py for training and evaluation. You can select different models by modifying the script.
 
-Can adjust model: ex) model = convnextv2_huge() or swin_t()
+Example: Using ConvNeXtV2-Huge
+model = convnextv2_huge()
+
+Example: Using Swin Transformer-Tiny
+model = swin_t()
 
 ## ⚠️ Notice on Code Availability
 
