@@ -27,11 +27,15 @@ The project has been tested on:
 Use the main script baseline_train_test.py for training and evaluation. You can select different models by modifying the script.
 
 Example: Using ConvNeXtV2-Huge
+
+```setup
 model = convnextv2_huge()
-
+```
 Example: Using Swin Transformer-Tiny
-model = swin_t()
 
+```setup
+model = swin_t()
+```
 ## ⚠️ Notice on Code Availability
 
 Please note that **some components of this project** (e.g., specific model implementations or pretrained weights) are currently being used in **commercial applications**. Due to **licensing and confidentiality constraints**, we are **unable to publicly release** those parts of the codebase.
