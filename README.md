@@ -1,4 +1,4 @@
-# FabricSpectra : A Large-Scale Real-World Multi-Task Benchmark Dataset for Fabric Composition Analysis
+# FabricSpectra: A Large-Scale Benchmark Dataset for Real-World Multi-Task Fabric Composition Analysis
 
 ## Repository Structure
 
