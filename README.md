@@ -1,4 +1,4 @@
-# RealFabric-NIR: A Multi-Task Benchmark Dataset for Real-World Challenges in Fabric Component Analysis
+# FabricSpectra : A Large-Scale Real-World Multi-Task Spectroscopy Benchmark for Fabric Composition Analysis
 
 ## Repository Structure
 
